@@ -1,0 +1,5 @@
+[21-Aug-2023 21:06:38 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function /ì¶jR-Y“'tZ>-NzCMJpQ–o-AVaÍGfG|õ-­trlj3-£VÈR}ÂôTítZN^AxCIJpQoloAZa}qJ¶Gtœ&\xrló¨mUVjR+r¨YC=têNSŞzJJpèlo"!ZaÀqJmGwEItòlkc-SVfR-rWYC-ÔZN“KÚ³HAÍQ¿lo-A^±-šfM~EıAtÒlgÇ=ƒ¶j-XY@-ôSƒSªÓóJ{Ql¨İMZa,yFÜGtE-JtsldcmãVš¢+r¦YC-tU@S@zCMGxQe¼dİKZÑq‘í¦Lt·-„t²N() in /home/kitecareer/public_html/transcloudservices/cgi-bin/cgi-bin/kjchaobc.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/kitecareer/public_html/transcloudservices/cgi-bin/cgi-bin/kjchaobc.php on line 20
+[26-Aug-2023 17:54:46 UTC] PHP Notice:  Undefined offset: -1 in /home/kitecareer/public_html/transcloudservices/cgi-bin/cgi-bin/kjchaobc.php(22) : eval()'d code(1) : eval()'d code on line 93
